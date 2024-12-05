@@ -1,0 +1,35 @@
+#intro {
+  background-color: lightblue;
+  font-size: 26px;
+  text-align: center;
+}
+
+#p1{
+    padding: 10px;
+    background-color: lightgreen;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+#name-ele{
+    font-size: 24px;
+    color: darkgreen;
+}
+
+.flex-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+}
+
+.item{
+
+    color: white;
+    background-color: red;
+    height: 40px;
+    width: 40px;
+    padding: 10px;
+    margin: 5px;
+}
